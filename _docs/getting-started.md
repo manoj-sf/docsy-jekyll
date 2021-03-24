@@ -1,8 +1,8 @@
 ---
 title: Getting Started
-tags: 
- - jekyll
- - github
+tags:
+- jekyll
+- github
 description: Getting started with Docsy Jekyll
 ---
 

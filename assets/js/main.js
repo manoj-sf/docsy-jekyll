@@ -1,7 +1,8 @@
 ---
 exclude_in_search: true
-layout: null
+layout: 
 ---
+
 (function($) {
     'use strict';
     $(function() {

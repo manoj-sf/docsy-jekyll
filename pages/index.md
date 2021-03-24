@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Docsy Jekyll Theme
-permalink: /
+permalink: "/"
+layout: page
 ---
 
 # Welcome to Docsy Jekyll

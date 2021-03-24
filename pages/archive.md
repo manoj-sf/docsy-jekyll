@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Articles
-permalink: /archive/
+permalink: "/archive/"
+layout: page
 ---
+
 # News Archive
 
 {% for post in site.posts  %}{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
